@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bitcoindemo/static/css/main.8ebca7ae.css",
+    "main.js": "/bitcoindemo/static/js/main.a7d61a0e.js",
+    "static/media/k.jpg": "/bitcoindemo/static/media/k.959711ef384a8dffcfea.jpg",
+    "index.html": "/bitcoindemo/index.html",
+    "main.8ebca7ae.css.map": "/bitcoindemo/static/css/main.8ebca7ae.css.map",
+    "main.a7d61a0e.js.map": "/bitcoindemo/static/js/main.a7d61a0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebca7ae.css",
+    "static/js/main.a7d61a0e.js"
+  ]
+}
